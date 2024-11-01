@@ -1,0 +1,1521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpbusdirman\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-28 20:31-0500\n"
+"PO-Revision-Date: 2011-03-28 20:31-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: C:\\Program Files\\TortoiseSVN\\wp-business-directory-manager\n"
+"X-Poedit-SearchPath-0: C:\\Program Files\\TortoiseSVN\\wp-business-directory-manager\n"
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:85
+msgid "WP Business Directory Manager"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:86
+msgid "Label"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:87
+msgid "Type"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:88
+msgid "Association"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:89
+msgid "Options"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:90
+msgid "Order"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:91
+msgid "Action"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:92
+msgid "Value"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:93
+msgid "Amount"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:94
+msgid "Applied To"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:95
+msgid "All categories"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:96
+msgid "Day"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:97
+msgid "Days"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:98
+msgid "Images"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:99
+msgid "Duration"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:100
+msgid "Validation"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:101
+msgid "Required"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:102
+msgid "Excerpt"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:628
+msgid "Business Name"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:629
+msgid "Business Genre"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:630
+msgid "Short Business Description"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:631
+msgid "Long Business Description"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:632
+msgid "Business Website Address"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:633
+msgid "Business Phone Number"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:634
+msgid "Business Fax"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:635
+msgid "Business Contact Email"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:636
+msgid "Business Tags"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:829
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1382
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1961
+msgid "Add New Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:830
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5738
+msgid "Edit Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:831
+msgid "New Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:832
+msgid "View Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:833
+msgid "Search Listings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:834
+msgid "No listings found"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:835
+msgid "No listings found in trash"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:901
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:920
+msgid " Failure retrieving table data ["
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:945
+msgid "Manage Fees"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:949
+msgid "Payments are currently turned off. To manage fees you need to go to the Manage Options page and check the box next to 'Turn on payments' under 'General Payment Settings'"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:953
+msgid "Installed Payment Gateway Modules"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:956
+msgid "Google Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:960
+msgid "PayPal"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:964
+msgid "2Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:970
+msgid "It does not appear you have any of the payment gateway modules installed. You need to purchase a payment gateway module in order to charge a fee for listings. To purchase payment gateways use the buttons below or visit"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:981
+msgid "You can buy the PayPal gateway module to add PayPal as a payment option for your users."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:981
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:985
+msgid "$49.99"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:985
+msgid "You can buy the 2Checkout gateway module to add 2Checkout as a payment option for your users."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:990
+msgid "Save $20"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:990
+msgid " on your purchase of both the Paypal and the 2Checkout gateway modules"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:990
+msgid "$79.98"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1035
+msgid "Fee Label"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1037
+msgid "Fee Amount"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1039
+msgid "Listing Run in days"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1041
+msgid "Number of Images Allowed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1043
+msgid "Apply to Category"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1052
+msgid "Update Fee"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1056
+msgid "Add Fee"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1073
+msgid "Unable to determine the ID of the fee you are trying to delete. Action terminated"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1119
+msgid "Task completed successfully"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1120
+msgid "View current listing fees"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1124
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1204
+msgid "Add New Listing Fee"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1193
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2030
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:6083
+msgid "Edit"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1193
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2030
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:6083
+msgid "Delete"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1204
+msgid "You do not have any listing fees setup yet."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1308
+msgid "Options Menu"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1308
+msgid "You are using version"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1315
+msgid "You have payments turned on but all your gateways are set to hidden. Your system will run as if payments are turned off until you fix the problem. To fix go to Configure/Manage options and unhide at least 1 payment gateway, or if it is your intention not to charge a payment fee set payments to off instead of on."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1318
+msgid "Configure/Manage Options"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1319
+msgid "Setup/Manage Fees"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1320
+msgid "Setup/Manage Form Fields"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1323
+msgid "Featured Listings Pending Upgrade"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1327
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5229
+msgid "Manage Paid Listings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1330
+msgid "Listings in directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1331
+msgid "Categories In Directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1334
+msgid "Tips for Use and other information"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1338
+msgid "Leave default post status set to pending to avoid misuse"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1338
+msgid "Listing payment status is not automatically updated after payment has been made. For this reason it is best to leave the listing default post status set to pending so you can verify that a listing has been paid for before it gets publised."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1339
+msgid "Valid Merchant ID and sandbox seller ID required for Google checkout payment processing "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1341
+msgid "The plugin uses it's own page template to display single posts and category listings. You can modify the templates to make them match your site by editing the template files in the posttemplates folder which you will find inside the plugin folder. "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1342
+msgid "To protect user privacy Email addresses are not displayed in listings. "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1343
+msgid "reCaptcha human verification is built into the plugin contact form but comes turned off by default. To use it you need to turn it on. You also need to have a recaptcha public and private key. To obtain these visit recaptcha.net then enter the keys into he related boxes from the manage options page. "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1344
+msgid "You can hide these tips by going to Configure/Manage Options and checking the box next to 'Hide tips for use and other information'"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1355
+msgid "Previewing the post form"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1356
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1383
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1961
+msgid "Manage Form Fields"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1377
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2097
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4681
+msgid "You are not currently logged in. Please login or register first. When registering, you will receive an activation email. Be sure to check your spam if you don't see it in your email with 60 mintues."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1378
+msgid "Login or Register First"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1450
+msgid "Field NOT added! You have submitted the form without a field label. A field label is required before the field can be added. Please try adding the field again."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1468
+msgid "You tried to associate a field with a wordpress post title, category, tag, description, excerpt but another field is already associated with the element. The field has been associated with the post meta entity instead."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1501
+msgid "The category field can only be assigned to the single option dropdown select list or checkbox type. It has been defaulted to a select list. If you want the user to be able to select multiple categories use the checkbox field type."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1520
+msgid "You already have a field using the email validation. At this time the system will allow only 1 valid email field. Change the validation for that field to something else then try again."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1556
+msgid "The field has been deleted."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1560
+msgid "There was no ID supplied for the field. No action has been taken"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1578
+msgid "Make your changes then submit the form to update the field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1578
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1961
+msgid "Add New Form Field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1582
+msgid "Add extra fields to the standard fields used in the form that users will fill out to submit their business directory listing."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1587
+msgid "Edit Field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1591
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1840
+msgid "Add New Field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1792
+msgid "Preview the form"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1793
+msgid "Field Label"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1794
+msgid "Field Type"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1795
+msgid "Select Field Type"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1796
+msgid "Input Text Box"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1797
+msgid "Select List"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1798
+msgid "Multiple Select List"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1799
+msgid "Radio Button"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1800
+msgid "Checkbox"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1801
+msgid "Textarea"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1802
+msgid "Field Options"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1802
+msgid "for drop down lists, radio buttons, checkboxes "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1802
+msgid "separate by commas"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1802
+msgid "**Do not fill in options for the Post category associated field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1803
+msgid "Associate Field With"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1804
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1812
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1820
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1824
+msgid "Select Option"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1805
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5169
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5173
+msgid "Post Title"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1806
+msgid "Post Content"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1807
+msgid "Post Category"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1808
+msgid "Post Excerpt"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1809
+msgid "Post Meta"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1810
+msgid "Post Tags"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1811
+msgid "Validate Against"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1813
+msgid "Email Format"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1814
+msgid "URL format"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1815
+msgid "Missing Value"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1816
+msgid "Whole Number Value"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1817
+msgid "Decimal Value"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1818
+msgid "Date Format"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1819
+msgid "Is Field Required?"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1821
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1825
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1829
+msgid "Yes"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1822
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1826
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1828
+msgid "No"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1823
+msgid "Show this value in post excerpt?"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1827
+msgid "Hide this field from public viewing?"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1836
+msgid "Update Field"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1961
+msgid "Make changes to your existing form fields."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:1961
+msgid "Preview Form"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2081
+msgid "There are no categories assigned to the business directory yet. You need to assign some categories to the business directory. Only admins can see this message. Regular users are seeing a message that they cannot add their listing at this time. Listings cannot be added until you assign categories to the business directory."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2085
+msgid "Your listing cannot be added at this time. Please try again later."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2098
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4682
+msgid "Login Now"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2102
+msgid "Choose One"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2114
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5709
+msgid "View Listings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2115
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5720
+msgid "Directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2234
+msgid "Format 01/31/1969"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2395
+msgid "Submit"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2420
+msgid "Uninstall"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2426
+msgid "You have arrived at this page by clicking the Uninstall link. If you are certain you wish to uninstall the plugin, please click the link below to proceed. Please note that all your data related to the plugin, your ads, images and everything else created by the plugin will be destroyed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2426
+msgid "Important Information"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2426
+msgid "Proceed with Uninstalling WP Business Directory Manager Uninstall"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2471
+msgid "Almost done..."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2471
+msgid "One More Step"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2471
+msgid "Please click here to complete the uninstallation process"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2504
+msgid "There are no categories assigned to the business directory yet. You need to assign some categories to the business directory. Only admins can see this message. Regular users are seeing a message that there are currently no listings in the directory. Listings cannot be added until you assign categories to the business directory. "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2508
+msgid "There are currently no listings in the directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2599
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2986
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3734
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4489
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4506
+msgid "Your submission has been received and is currently pending review"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2603
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2990
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3738
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4493
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4510
+msgid "Your submission has been received and is currently published. Note that the administrator reserves the right to terminate without warning any listings that violate the site's terms of use."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2607
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2994
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3740
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4470
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4497
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4514
+msgid "You are finished with your listing."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2608
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2995
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3727
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3741
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3830
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3860
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3876
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3912
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3928
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4470
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4498
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4514
+msgid "Exit Now"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2642
+msgid "The listing has been deleted."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2647
+msgid "The system could not determine which listing you want to delete so nothing has been deleted."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2714
+msgid "Please enter your name."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2721
+msgid "Name needs to be at least 3 characters in length to be considered valid."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2729
+msgid "Please enter your email."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2736
+msgid "Please enter a valid email."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2745
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2755
+msgid "You did not enter a message."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2772
+msgid "The reCAPTCHA wasn't entered correctly: "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2795
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5497
+msgid "l F j, Y \\a\\t g:i a"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2807
+msgid "Your message has been sent"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:2811
+msgid "There was a problem encountered. Your message has not been sent"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3170
+msgid "Information Not Saved"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3170
+msgid "You are trying to submit the form in preview mode. You cannot save while in preview mode"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3170
+msgid "Go Back"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3383
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3461
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3508
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3556
+msgid "Step 2"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3396
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5565
+msgid "Select Listing Payment Option"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3400
+msgid "You have selected more than one category. Each category you to which you elect to submit your listing incurs a separate fee."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3403
+msgid " The number of images attached to your listing will be set according to option you choose that has the most images. So if for one category you chose an option with 2 images but for another category you chose an option with 4 images your listing will be allotted 4 image slots"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3417
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3853
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3905
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5570
+msgid "Next"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3453
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3500
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3546
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3617
+msgid "Submission received"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3453
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3500
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3546
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3617
+msgid "Your submission has been received."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3685
+msgid "It appears you do not have the ability to upload additional images at this time."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3688
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3776
+msgid "You can manage your current images below"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3716
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3803
+msgid "Delete Image"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3724
+msgid "If you are not updating your images you can click the exit now button."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3770
+msgid "Upload File"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3811
+msgid "If you prefer not to add an image or you are otherwise finished managing your images you can click the exit now button."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3814
+msgid "Your updated listing will be submitted for review."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3818
+msgid "Note that the administrator reserves the right to terminate without warning any listings that violate the site's terms of use."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3839
+msgid "If you prefer not to add any images please click Next to proceed to the next step."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3857
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3909
+msgid "If you prefer not to add an image click exit now. Your listing will be submitted for review."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3865
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3917
+msgid "submit your listing."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3868
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3920
+msgid "submit your listing for review"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3872
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3924
+msgid "publish your listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:3891
+msgid "Click Next to pay your listing fee. Your listing will not be published until your listing fee payment has been received and processed."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4055
+msgid "No file was selected"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4339
+msgid "had an invalid file extension and was not uploaded"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4370
+msgid "does not appear to be a valid image file"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4439
+msgid "Unknown error encountered uploading image"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4462
+msgid "Your listing has been updated. Your listing is currently pending re-review and will become accessible again once the administrator has reviewed it."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4466
+msgid "Your listing has been updated. Note that the administrator reserves the right to terminate without warning any listings that violate the site's terms of use."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4692
+msgid "There are no categories assigned to the business directory yet. You need to assign some categories to the business directory. Only admins can see this message. Regular users are seeing a message that they do not currently have any listings to manage. Listings cannot be added until you assign categories to the business directory. "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4696
+msgid "You do not currently have any listings to manage"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4709
+msgid "Your current listings are shown below. To edit a listing click the edit button. To delete a listing click the delete button."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4728
+msgid "You do not currently have any listings in the directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4797
+msgid "Step 3"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4801
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4811
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4822
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5061
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5071
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5081
+msgid "Pay "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4804
+msgid " listing fee via Google Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4814
+msgid " listing Fee via PayPal"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4825
+msgid " listing fee via 2Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4906
+msgid " fee options"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4928
+msgid " Listing will run for "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4930
+msgid " days"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4934
+msgid " - listing includes "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4936
+msgid " images"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4998
+msgid "Send Message to listing owner"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:4998
+msgid "Listing Title: "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5002
+msgid "Your Name "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5002
+msgid "Your Email "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5003
+msgid "Website url "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5013
+msgid "You are currently logged in as "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5013
+msgid " Your message will be sent using your logged in contact email."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5015
+msgid "Message"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5050
+msgid "Upgrade listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5064
+msgid " upgrade fee via Google Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5074
+msgid " upgrade fee via PayPal"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5084
+msgid " upgrade fee via 2Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5108
+msgid "The listing has been upgraded."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5112
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5128
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5210
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5226
+msgid "No ID was provided. Please try again"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5124
+msgid "The listing has been downgraded."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5131
+msgid "Manage Featured Listings pending manual upgrade"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5135
+msgid "You are not currently allowing sticky (featured) listings. To allow sticky listings check that option in the manage options page under the Featured/Sticky listing settings."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5164
+msgid "Currently there are no listings waiting to be upgraded to sticky(featured) status"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5170
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5174
+msgid "Post ID"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5182
+msgid "Upgrade"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5182
+msgid "Downgrade"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5206
+msgid "The listing status has been set as paid."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5222
+msgid "The listing status has been changed non-paying."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5233
+msgid "You are not currently charging any payment fees. To charge fees for listings check that option in the manage options page."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5261
+msgid "Currently there are no paid listings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5265
+msgid "Get info on managing paid listings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5267
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5279
+msgid "Title"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5268
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5280
+msgid "ID"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5269
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5281
+msgid "Status"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5272
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5284
+msgid "Flag"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5274
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5286
+msgid "Gateway"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5275
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5287
+msgid "Buyer"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5276
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5288
+msgid "Payment Email"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5321
+msgid "Set as"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5324
+msgid "Paid"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5326
+msgid "Not paid"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5344
+msgid "Listing Sumitted"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5361
+msgid "Listing Upgraded to featured"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5431
+msgid "Listing Upgrade Payment Status"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5432
+msgid "Thank you for your payment. Your listing upgrade request and payment notification have been sent. Contact the administrator if your listing is not upgraded within 24 hours."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5491
+msgid "has expired"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5554
+msgid "Renew Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5556
+msgid "You are about to renew"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5576
+msgid "There was no ID supplied. Cannot complete renewal. Please contact administrator"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5693
+msgid "Submit A Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:5766
+msgid "Upgrade Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:6074
+msgid "View"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:6234
+msgid "Featured Listing"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/wpbusdirman.php:6674
+msgid "WP Business Directory Main Settings"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:35
+msgid "Payment for upgrading to featured listing "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:39
+msgid "Payment for listing "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:42
+msgid " with listing ID: "
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:69
+msgid "Upgrade Listing to Featured"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:103
+msgid "Your listing has not been fully submitted yet. To complete the process you need to click the link below and enter your license key upon request."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:109
+msgid "Pay With Google Checkout"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:186
+msgid "Please enter your license key."
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:213
+msgid "Please enter your license key to proceed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/gateways/googlecheckout.php:219
+msgid "Proceed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-category.php:37
+msgid "No listings found in category"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-index-listings.php:33
+msgid "There were no listings found in the directory"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:24
+msgid "This listing was submitted"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:25
+msgid "on"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:25
+msgid "at"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:28
+msgid "You can follow any responses to this listing through the"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:28
+msgid "feed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:34
+msgid "You can"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:34
+msgid "leave a response"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:34
+msgid "or"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:34
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:41
+msgid "trackback"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:34
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:41
+msgid "from your own site"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:41
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:48
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:55
+msgid "Both comments and pings are currently closed"
+msgstr ""
+
+#: C:\Program
+#: Files\TortoiseSVN\wp-business-directory-manager/trunk/posttemplate/wpbusdirman-single.php:78
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
